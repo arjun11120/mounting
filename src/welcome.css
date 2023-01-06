@@ -1,0 +1,11 @@
+center{
+    background:black;
+    width: 30%;
+    margin:0  auto;
+}
+.title,h1{
+    color: white;
+}
+button{
+    width: 50%;
+}
